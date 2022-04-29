@@ -157,3 +157,10 @@ img {
 .proffesion{
     color: #EC4067;
 }
+.ask_button {
+    width: 50%;
+    font-size: small;
+    text-overflow: none;
+}.about_dev {
+    margin-top: 0;
+}
