@@ -27,6 +27,8 @@ button {
     border-color: #EC4067; 
     padding-left: 10px; 
     padding-right: 10px;
+    cursor: pointer;
+    
 }
 .explore_btn {
     background-color: white;
@@ -46,9 +48,13 @@ button {
     font-size: 20px;
     
 }
+.head_links {
+    text-decoration: none;
+    color: rgb(75, 73, 73);
+}
 .nurturing {
     color: #EC4067;
-    font-size: 30px;
+    font-size: 25px;
     margin-top: 0;
 }
 .section_a {
@@ -163,4 +169,14 @@ img {
     text-overflow: none;
 }.about_dev {
     margin-top: 0;
+}
+
+.not_sure {
+    color: #EC4067;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+.contact_us {
+    color: #EC4067;
+    text-decoration: none;
 }
