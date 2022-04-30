@@ -104,14 +104,16 @@ button {
     grid-column: 1 / 2;
     grid-row: 3 / 4;
 }
-.image_3 {
+.image_4 {
     grid-column: 2 / -1;
     grid-row: 3 / 4;
+    position: relative;
 }
 
 .image_3 {
     grid-column: 1 / 2;
     grid-row: 4 / 5;
+    position: relative;
 }
 .content_4 {
     grid-column: 2 / -1;
@@ -169,6 +171,7 @@ img {
 .flex-info {
     display: flex;
     flex-direction: column;
+    position: relative;
 }
 .proffesion{
     color: #EC4067;
@@ -208,4 +211,71 @@ footer{
 .go_ahead {
     font-size: 25px;
     
+}
+.pic_num_caption_1{
+    position: absolute;
+    color: white;
+    top: 400px;
+    left: 320px;
+}
+.pic_date_caption_1 {
+    position: absolute;
+    color: white;
+    top: 560px;
+}
+
+.pic_num_caption_2{
+    position: absolute;
+    color: white;
+    top: 2px;
+    left: 2px;
+}
+.pic_date_caption_2 {
+    position: absolute;
+    color:white;
+    right: 185px;
+    bottom: 0px;
+}
+
+.pic_num_caption_3{
+    position: absolute;
+    color: white;
+    top: 2px;
+    right: 120px;
+}
+.pic_date_caption_3 {
+    position: absolute;
+    color: white;
+    left: 2px;
+    bottom: 0px;
+}
+.rose_oketch {
+    position: absolute;
+    bottom: 160px;
+    left: 50px;
+    color: rgb(255, 255, 255);
+}
+.albert_byron {
+    position: absolute;
+    bottom: 160px;
+    left: 50px;
+    color: rgb(255, 255, 255);
+}
+.albert_byron {
+    position: absolute;
+    bottom: 160px;
+    left: 50px;
+    color: rgb(255, 255, 255);
+}
+.raphael_katana {
+    position: absolute;
+    bottom: 160px;
+    left: 50px;
+    color: rgb(255, 255, 255);
+}
+.christine_karimi {
+    position: absolute;
+    bottom: 160px;
+    left: 50px;
+    color: rgb(255, 255, 255);
 }
