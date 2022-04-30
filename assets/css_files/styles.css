@@ -1,5 +1,7 @@
 body{
     font-family: 'Nunito sans';
+    width: 100%;
+    min-width: 900px;
    
 }
 .container {
@@ -13,6 +15,8 @@ body{
 }
 h1 {
     color: rgb(223, 25, 91);
+    white-space: nowrap;
+    overflow: hidden;
 }
 .black {
     color: black;
@@ -46,6 +50,8 @@ button {
     padding-right: 0px;
     color: grey;
     font-size: 20px;
+    white-space: nowrap;
+    overflow: hidden;
     
 }
 .head_links {
@@ -67,7 +73,8 @@ button {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 200px 200px 200px 200px;
-    gap: 20px;
+    row-gap: 40px;
+    column-gap: 20;
     margin-top: 80px;
     margin-left: 50px;
     margin-right: 50px;
@@ -76,6 +83,9 @@ button {
 .content_1 {
     grid-column: 1 / 2;
     grid-row: 1 / 2;
+}
+.orientation {
+    margin-bottom: 0;
 }
 .image_1{
     grid-column: 2 / -1;
@@ -162,11 +172,17 @@ img {
 }
 .proffesion{
     color: #EC4067;
+    margin-bottom: 10px;
 }
 .ask_button {
     width: 50%;
     font-size: small;
     text-overflow: none;
+    white-space: nowrap;
+    padding-left: 1px;
+    padding-right: 1px;
+    font-size: smaller;
+    
 }.about_dev {
     margin-top: 0;
 }
