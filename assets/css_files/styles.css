@@ -189,7 +189,7 @@ img {
 
 .not_sure {
     color: #EC4067;
-    margin-top: 50px;
+    margin-top: 150px;
     margin-bottom: 0;
 }
 .contact_us {
@@ -198,7 +198,7 @@ img {
 }
 footer{
     display: flex;
-    background-color: grey;
+    background-color: rgb(196, 192, 192);
     height: 100px;
     text-align: center;
     margin-bottom: 0px;
@@ -206,5 +206,6 @@ footer{
     justify-content: center;
 }
 .go_ahead {
-    font-size: 18px;
+    font-size: 25px;
+    
 }
