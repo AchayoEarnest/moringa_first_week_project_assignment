@@ -2,8 +2,6 @@
 
 ## By Earnest Achayo
 
-##
-![image] ./assets/image2.png
 
 ## Table of Content
 
