@@ -29,23 +29,24 @@ As a user, you will be able to:
 ##Behavioral Driven Development
 | Behavior | Input | Output |
 | Click the available links | Outputs by connecting the user to other pages |
-			    | You can read more info about the school and see pictorial presentations as well |
+			    | You can read more info about the school and see pictorial presentations as well from the landing page|
 
 ### Requirements
 * Access to a computer or any other gadget.
 * Access to internet I.e through bundles.
 
-**********************************
-* Clone to the developer repo: git clone https://achayoearnest.github.io/moringa_first_week_project_assignment/
-*Unzip the downloaded files in a folder of choice.
-* pen the index file from the zipped file with any browser.
-**********************************
+*****************************************************************************************************************
+* Clone to the developer repo: git clone https://achayoearnest.github.io/moringa_first_week_project_assignment/  *
+* Unzip the downloaded files in a folder of choice.                                                              *
+* pen the index file from the zipped file with any browser.                                                      *
+*****************************************************************************************************************
 ### Live Link
     • Click this link to view the live application
 
 ### Technology used: 
     1) Hyper Text Markup Language (HTML) – Was used to develop the structure of the page
     2) Cascading Style Sheets (CSS) -Was used to develop the styling of the page
+    3) README.md for the md document to help other developers and users undestand more on how to use the page
 
 ### Known bugs
 - No known bugs so far
