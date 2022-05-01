@@ -140,7 +140,7 @@ img {
 .flex-box-5 {
     display: flex;
     flex-direction: row;
-    gap: 10px;
+    gap: 5px;
     margin-top: 10px;
     margin-left: 50px;
     margin-right: 50px;
