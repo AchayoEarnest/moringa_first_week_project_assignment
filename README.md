@@ -36,7 +36,7 @@ As a user, you will be able to:
 * Access to internet I.e through bundles.
 
 **********************************
-* Clone to the developer repo: git clone https://github.com/AchayoEarnest/moringa_first_week_project_assignment.git
+* Clone to the developer repo: git clone https://achayoearnest.github.io/moringa_first_week_project_assignment/
 *Unzip the downloaded files in a folder of choice.
 * pen the index file from the zipped file with any browser.
 **********************************
