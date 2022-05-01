@@ -2,7 +2,7 @@
 
 ## By Earnest Achayo
 
-
+ ![image](./assets/images/landingimage.png)
 
 ## Table of Content
 
