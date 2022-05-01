@@ -11,16 +11,30 @@ body{
     height: 50px;
     align-items: center;
     margin-right: 30px;
-    margin-left: 30px;  
+    margin-left: 30px;
 }
+
 h1 {
     color: rgb(223, 25, 91);
     white-space: nowrap;
     overflow: hidden;
 }
-.black {
+.h1_black {
     color: black;
 }
+
+.right_section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 25px;
+    padding-right: 0px;
+    color: grey;
+    font-size: 20px;
+    white-space: nowrap;
+    overflow: hidden; 
+}
+
 button {
     background-color: #EC4067;
     color: white;
@@ -42,33 +56,17 @@ button {
     margin-left: 4px;
 }
 
-.right_section {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    gap: 25px;
-    padding-right: 0px;
-    color: grey;
-    font-size: 20px;
-    white-space: nowrap;
-    overflow: hidden;
-    
-}
 .head_links {
     text-decoration: none;
     color: rgb(75, 73, 73);
 }
+
 .nurturing {
     color: #EC4067;
     font-size: 25px;
     margin-top: 0;
 }
-.section_a {
-    width: 10%;
-}
-.section_b {
-    width: 10%;
-}
+
 .container_grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -80,11 +78,13 @@ button {
     margin-right: 50px;
     
 }
+
 .content_1 {
     grid-column: 1 / 2;
     grid-row: 1 / 2;
 }
-.orientation {
+
+.orientation_text {
     margin-bottom: 0;
 }
 .image_1{
@@ -139,7 +139,7 @@ img {
 .flex-box-5 {
     display: flex;
     flex-direction: row;
-    gap: 5px;
+    gap: 20px;
     margin-top: 10px;
     margin-left: 50px;
     margin-right: 50px;
@@ -199,15 +199,7 @@ img {
     color: #EC4067;
     text-decoration: none;
 }
-footer{
-    display: flex;
-    background-color: rgb(196, 192, 192);
-    height: 100px;
-    text-align: center;
-    margin-bottom: 0px;
-    align-items: flex-end;
-    justify-content: center;
-}
+
 .go_ahead {
     font-size: 25px;
     
@@ -284,4 +276,17 @@ footer{
     color: #EC4067;
     list-style-type: none;
     margin-top: 50px;
+    background-color: rgb(182, 179, 179);
+    margin-bottom: 0;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+footer{
+    display: flex;
+    background-color: grey;
+    height: 100px;
+    text-align: center;
+    margin-bottom: 0px;
+    align-items: flex-end;
+    justify-content: center;
 }
