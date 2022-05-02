@@ -292,3 +292,7 @@ footer{
     align-items: flex-end;
     justify-content: center;
 }
+.heart {
+    color: #EC4067;
+    font-size: 30px;
+}
