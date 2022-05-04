@@ -223,11 +223,13 @@ img {
     top: 2px;
     left: 2px;
 }
-.pic_date_caption_2 {
+
+
+#pic_2_cap {
     position: absolute;
-    color:white;
-    right: 185px;
-    bottom: 0px;
+    bottom: 5px;
+    right: 150px;
+    color: white;
 }
 
 .pic_num_caption_3{
