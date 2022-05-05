@@ -30,9 +30,6 @@ h1 {
     color: black;
 }
 
-.right_section {
-    
-}
 
 button {
     background-color: #EC4067;
@@ -47,6 +44,7 @@ button {
     cursor: pointer;
     box-shadow: 5px 5px 2em;   
 }
+
 .explore_btn {
     background-color: white;
     color: #EC4067; 
@@ -74,8 +72,7 @@ button {
     column-gap: 20;
     margin-top: 60px;
     margin-left: 50px;
-    margin-right: 50px;
-    
+    margin-right: 50px;    
 }
 
 .content_1 {
@@ -127,14 +124,17 @@ button {
 img {
     height: 100%;
 }
+
 .tech_ment {
     margin-top: 80px;
     margin-left: 50px;
     font-size: x-large;
 }
+
 .small_span {
     font-size: small;
 }
+
 .flex-box-5 {
     display: flex;
     flex-direction: row;
@@ -143,6 +143,7 @@ img {
     margin-left: 50px;
     margin-right: 50px;
 }
+
 .container_grid_2 {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -158,24 +159,29 @@ img {
     grid-row: 1 / 2;
     width: 100%;
 }
+
 .image_6{
     grid-column: 2 / -1;
     grid-row: 1 / 2;
     width: 100%;
 }
+
 .content_7{
     grid-column: 1 / 2;
     grid-row: 2 / 3;
 }
+
 .flex-info {
     display: flex;
     flex-direction: column;
     position: relative;
 }
+
 .proffesion{
     color: #EC4067;
     margin-bottom: 10px;
 }
+
 .ask_button {
     width: 50%;
     font-size: small;
@@ -183,9 +189,10 @@ img {
     white-space: nowrap;
     padding-left: 1px;
     padding-right: 1px;
-    font-size: smaller;
-    
-}.about_dev {
+    font-size: smaller;    
+}
+
+.about_dev {
     margin-top: 0;
 }
 
@@ -194,6 +201,7 @@ img {
     margin-top: 150px;
     margin-bottom: 0;
 }
+
 .contact_us {
     color: #EC4067;
     text-decoration: none;
@@ -203,16 +211,18 @@ img {
     font-size: 25px;
     
 }
+
 .pic_num_caption_1{
     position: absolute;
     color: white;
     top: 400px;
     left: 320px;
 }
+
 .pic_date_caption_1 {
     position: absolute;
     color: white;
-    top: 560px;
+    top: 620px;
 }
 
 .pic_num_caption_2{
@@ -236,42 +246,49 @@ img {
     top: 2px;
     right: 120px;
 }
+
 .pic_date_caption_3 {
     position: absolute;
     color: white;
     left: 2px;
     bottom: 0px;
 }
+
 .rose_oketch {
     position: absolute;
     bottom: 160px;
     left: 50px;
     color: rgb(255, 255, 255);
 }
+
 .albert_byron {
     position: absolute;
     bottom: 160px;
     left: 50px;
     color: rgb(255, 255, 255);
 }
+
 .albert_byron {
     position: absolute;
     bottom: 160px;
     left: 50px;
     color: rgb(255, 255, 255);
 }
+
 .raphael_katana {
     position: absolute;
     bottom: 160px;
     left: 50px;
     color: rgb(255, 255, 255);
 }
+
 .christine_karimi {
     position: absolute;
     bottom: 160px;
     left: 50px;
     color: rgb(255, 255, 255);
 }
+
 .contact_info {
     text-align: center;
     color: white;
@@ -292,6 +309,7 @@ footer{
     align-items: flex-end;
     justify-content: center;
 }
+
 .heart {
     color: #EC4067;
     font-size: 30px;
